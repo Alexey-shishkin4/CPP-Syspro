@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <cassert>
-#include "avl.h"  // Подключаем твой класс AVLTree
+#include "avl.h"
 
 void testInsert() {
     AVLTree avl;
